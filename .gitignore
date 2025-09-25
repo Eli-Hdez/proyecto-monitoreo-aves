@@ -1,0 +1,40 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Archivos de entorno y configuración
+.env
+.config
+
+# Base de datos SQLite
+*.sqlite
+*.db
+database/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de sistema Windows
+Desktop.ini
